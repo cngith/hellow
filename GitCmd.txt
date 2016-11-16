@@ -1,2 +1,13 @@
 
+git diff    #是工作区(work dict)和暂存区(stage)的比较
+git diff --cached    #是暂存区(stage)和分支(master)的比较
+
+简短方式显示
 $ git log --pretty=oneline
+
+$ git reflog
+
+$ git reset --hard HEAD^
+
+$ git reset --hard 3628164
+
