@@ -1,4 +1,4 @@
 Centos安装（更新）git
 http://blog.sina.com.cn/s/blog_3fe961ae0102w9ui.html#cmt_2977351
 
-第1次
+不在默认目录
